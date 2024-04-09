@@ -1,4 +1,4 @@
-[![MasterHead]([https://pngtree.com/freebackground/blue-background-informatization-of-science-and-technology_1616340.html](https://png.pngtree.com/thumb_back/fh260/background/20220215/pngtree-blue-background-informatization-of-science-and-technology-image_924571.jpg))
+[![MasterHead]([[https://pngtree.com/freebackground/blue-background-informatization-of-science-and-technology_1616340.html](https://png.pngtree.com/thumb_back/fh260/background/20220215/pngtree-blue-background-informatization-of-science-and-technology-image_924571.jpg)](https://www.google.com/imgres?q=background%20pictures%20informatics&imgurl=https%3A%2F%2Fpng.pngtree.com%2Fthumb_back%2Ffh260%2Fbackground%2F20220215%2Fpngtree-blue-background-informatization-of-science-and-technology-image_924570.jpg&imgrefurl=https%3A%2F%2Fpngtree.com%2Ffree-backgrounds-photos%2Finformatics&docid=HAmXRHMLnKNl5M&tbnid=NQzWnQRW3u84KM&vet=12ahUKEwiLzujgkbWFAxVEzAIHHYQQDU4QM3oECBUQAA..i&w=1108&h=404&hcb=2&ved=2ahUKEwiLzujgkbWFAxVEzAIHHYQQDU4QM3oECBUQAA))
 
 <h1 align="center">Hi 👋, I'm Bekir Kurtuldu</h1>
 <h3 align="center">A Business Informatics student from Germany</h3>
