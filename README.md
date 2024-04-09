@@ -1,8 +1,5 @@
 [![MasterHead](https://www.vdh.virginia.gov/content/uploads/sites/3/2021/10/DIIS-Technology-Image.jpg)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/username/username/main/header.png" alt="Header-Bild">
-</p>
 
 <h1 align="center">👋 Hi, I'm Bekir Kurtuldu</h1>
 <h3 align="center">🎓 A Business Informatics Student from Germany 🇩🇪</h3>
