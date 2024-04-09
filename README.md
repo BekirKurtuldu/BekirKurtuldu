@@ -1,4 +1,4 @@
-[![MasterHead](https://sciencephotogallery.com/featured/1-richard-feynman-photo-c-estate-of-francis-belloscience-photo-library.html)
+[![MasterHead](https://www.uab.cat/Imatge/483/998/feynmanCERNweb,0.jpg)
 
 <h1 align="center">Hi 👋, I'm Bekir Kurtuldu</h1>
 <h3 align="center">A Business Informatics student from Germany</h3>
