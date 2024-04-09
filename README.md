@@ -2,7 +2,7 @@
 
 
 <h1 align="center">👋 Hi, I'm Bekir Kurtuldu</h1>
-<h3 align="center">🎓 A Business Informatics Student from Germany 🇩🇪</h3>
+<h3 align="center">🎓 A Business Informatics Student from Germany </h3>
 
 <p align="center">
   <a href="https://leetcode.com/BekirKurtuldu/" target="_blank">
