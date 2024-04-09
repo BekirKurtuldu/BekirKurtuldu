@@ -1,4 +1,4 @@
-[![MasterHead](https://www.uab.cat/Imatge/483/998/feynmanCERNweb,0.jpg)
+[![MasterHead]([https://www.uab.cat/Imatge/483/998/feynmanCERNweb,0.jpg](https://media.licdn.com/dms/image/D4E16AQGTn7fT8aKS7Q/profile-displaybackgroundimage-shrink_350_1400/0/1708721107934?e=1718236800&v=beta&t=wygx1j7cLz63F2WQgmsNzUYcuJIuilB1Vuc1fWfuuMw))
 
 <h1 align="center">Hi 👋, I'm Bekir Kurtuldu</h1>
 <h3 align="center">A Business Informatics student from Germany</h3>
@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/bekirkurtuldu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bekirkurtuldu" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bekir-kurtuldu-6b959b1a6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bekir-kurtuldu-6b959b1a6/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
