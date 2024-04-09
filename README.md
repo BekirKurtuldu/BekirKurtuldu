@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fkunstundphysik.de%2Fnobel-preis-von-richard-feynman-versteigert%2F&psig=AOvVaw0LYf-T8o725mh2KUg9xPWJ&ust=1712750963326000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMjS7NmMtYUDFQAAAAAdAAAAABAE)
+[![MasterHead](https://kunstundphysik.de/wp-content/uploads/2019/01/FeynmanLecture.jpg)
 
 <h1 align="center">Hi 👋, I'm Bekir Kurtuldu</h1>
 <h3 align="center">A Business Informatics student from Germany</h3>
