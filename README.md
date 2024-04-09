@@ -1,4 +1,4 @@
-[![MasterHead]([https://kunstundphysik.de/wp-content/uploads/2019/01/FeynmanLecture.jpg](https://www.muckrock.com/news/archives/2012/jun/06/feynman-files-professors-invitation-past-iron-curt/)
+[![MasterHead](https://sciencephotogallery.com/featured/1-richard-feynman-photo-c-estate-of-francis-belloscience-photo-library.html)
 
 <h1 align="center">Hi 👋, I'm Bekir Kurtuldu</h1>
 <h3 align="center">A Business Informatics student from Germany</h3>
