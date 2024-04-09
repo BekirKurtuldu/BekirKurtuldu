@@ -1,4 +1,4 @@
-[![MasterHead](https://pngtree.com/freebackground/blue-background-informatization-of-science-and-technology_1616340.html)
+[![MasterHead]([https://pngtree.com/freebackground/blue-background-informatization-of-science-and-technology_1616340.html](https://png.pngtree.com/thumb_back/fh260/background/20220215/pngtree-blue-background-informatization-of-science-and-technology-image_924571.jpg))
 
 <h1 align="center">Hi 👋, I'm Bekir Kurtuldu</h1>
 <h3 align="center">A Business Informatics student from Germany</h3>
