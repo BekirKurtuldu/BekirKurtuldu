@@ -34,6 +34,3 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/username/username/main/footer.png" alt="Footer-Bild">
-</p>
