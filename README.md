@@ -1,4 +1,4 @@
-[![MasterHead]([[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-zggR8d69eZzQ8sDnMYSfc9LaRG7qdcVb0Q&s](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHVJ09uXReGvVFQNTuP7Yq244F1eu_Y0hJUA&s)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHVJ09uXReGvVFQNTuP7Yq244F1eu_Y0hJUA&s))
+[![MasterHead]([[[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-zggR8d69eZzQ8sDnMYSfc9LaRG7qdcVb0Q&s](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHVJ09uXReGvVFQNTuP7Yq244F1eu_Y0hJUA&s)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHVJ09uXReGvVFQNTuP7Yq244F1eu_Y0hJUA&s)](https://www.google.com/imgres?q=background%20pictures%20informatics&imgurl=https%3A%2F%2Fwww.fhnw.ch%2Fde%2Fdie-fhnw%2Fhochschulen%2Flifesciences%2Fnews%2Fmaster-medical-informatics-boomt%2Fmedia%2Fheader_adobestock_224997126.jpg%2F%40%40images%2Fimage%2Ff_fullwidthtop&imgrefurl=https%3A%2F%2Fwww.fhnw.ch%2Fde%2Fdie-fhnw%2Fhochschulen%2Flifesciences%2Fnews%2Fmaster-medical-informatics-boomt&docid=OmDz4OoFiFyq2M&tbnid=OKWOGK8iLXw14M&vet=12ahUKEwiXttz7krWFAxUN1QIHHf8nDd0QM3oECFQQAA..i&w=1920&h=639&hcb=2&ved=2ahUKEwiXttz7krWFAxUN1QIHHf8nDd0QM3oECFQQAA))
 
 
 
