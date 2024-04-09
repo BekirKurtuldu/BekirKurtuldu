@@ -1,4 +1,4 @@
-[![MasterHead](![image](https://github.com/BekirKurtuldu/BekirKurtuldu/assets/126147413/d4d5e9a1-8844-4784-9773-bc118dcb2ad5)
+[![MasterHead]([![image](https://github.com/BekirKurtuldu/BekirKurtuldu/assets/126147413/d4d5e9a1-8844-4784-9773-bc118dcb2ad5)](https://media.istockphoto.com/id/1499543271/de/vektor/roter-fallender-pfeilpixel-digitaler-bildschirm.jpg?s=1024x1024&w=is&k=20&c=odM7mGDxPboFumX8CWER-ca70B7IJ_ha4zD4sKo0b0w=)
 )
 
 <h1 align="center">Hi 👋, I'm Bekir Kurtuldu</h1>
